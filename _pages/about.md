@@ -7,9 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## About Me / 略歴
+I am a PhD student in Physical Therapy and Biomechanics at Juntendo University Graduate School of Health Science. My research focuses on sports biomechanics, motion analysis, and prevention mechanisms for anterior cruciate ligament (ACL) injuries.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+順天堂大学大学院 保健医療学研究科 博士後期課程に在籍しています。理学療法士として臨床に携わりつつ、スポーツバイオメカニクスや動作解析（3次元動作解析・床反力計）を用いた前十字靭帯（ACL）損傷予防に関する研究を行っています。
+
+## Research Interests / 研究テーマ
+* **Sports Biomechanics / スポーツバイオメカニクス**
+* **3D Motion Analysis & Ground Reaction Force / 動作解析・床反力評価**
+* **ACL Injury Prevention & Landing Kinematics / 着地・アライメントにおけるACL損傷予防**
+
+## Education / 学歴
+* **Ph.D. Student in Physical Therapy**  
+  Juntendo University Graduate School of Health Science (Present)  
+  順天堂大学大学院 保健医療学研究科 博士後期課程（在籍）
+
+## Qualifications & Affiliations / 資格・所属学会
+* Physical Therapist (Japan) / 理学療法士
 
 A data-driven personal website
 ======
