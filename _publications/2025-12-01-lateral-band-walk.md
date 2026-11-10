@@ -1,18 +1,15 @@
 ---
-# --- [基本設定・ナビゲーション] ---
-title: "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study" # 論文・研究のフルタイトル
-collection: publications # 保存先（publications 固定）
-permalink: /publication/2025-12-01-lateral-band-walk # このページのURL末尾（重複しない日付やキーワード）
-date: 2025-12-01 # 発表日・登録日（YYYY-MM-DD）
-
-# --- [学術情報・ステータス] ---
-venue: 'In Preparation' # 掲載誌名（投稿準備中の場合は 'In Preparation' / 投稿中の場合は 'Under Review'）
-citation: 'Serizawa, K., Aizawa, J. (In preparation).' # 引用表記（著者名・年など）
-# paperurl: 'https://doi.org/xxxxxxx' # DOIや論文ページのURL（採択・公開されたら行頭の # を消して有効化）
+title: "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study"
+collection: publications
+permalink: /publication/2025-12-01-lateral-band-walk
+date: 2025-12-01
+venue: 'In Preparation'
+citation: 'Serizawa, K., Aizawa, J. (In preparation).'
 ---
 
 ### Status / ステータス
 * **Status:** In Preparation (投稿準備中)
+
 ---
 
 ### Study Overview / 研究概要
