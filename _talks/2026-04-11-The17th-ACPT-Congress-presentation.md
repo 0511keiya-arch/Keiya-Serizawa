@@ -8,11 +8,11 @@ date: 2026-04-11
 location: "Suwon Convention Center, Suwon, South Korea"
 ---
 
+<!-- 備考（一旦非表示）
 ### Note / 備考
 * This presentation is based on the research article currently in preparation:  
-  *Serizawa, K., Aizawa, J., et al.* "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study"
-
----
+  *Serizawa, K., Aizawa, J.* "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study"
+-->
 
 ### Presentation Summary / 発表概要
 
