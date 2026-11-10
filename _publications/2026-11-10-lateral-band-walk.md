@@ -8,9 +8,19 @@ venue: 'In Preparation'
 citation: 'Serizawa, K., Aizawa, J. (In preparation).'
 ---
 
+<!-- =================================================== -->
+<!-- [Front Matter 設定ガイドメモ] -->
+<!-- title: 論文・研究のフルタイトル -->
+<!-- collection: 保存先コレクション（_publications フォルダ内のため "publications" 固定） -->
+<!-- category: 一覧の分類（原著論文は "manuscripts" / 学会抄録は "conferences" / 著書は "books"） -->
+<!-- permalink: 個別ページのURLパス（他ファイルと重複しない一意の文字列） -->
+<!-- date: 発表日・登録日（YYYY-MM-DD 形式） -->
+<!-- venue: 掲載誌名・学会名（投稿準備中は 'In Preparation'） -->
+<!-- citation: 論文の引用表記（著者名、年、誌名など） -->
+<!-- =================================================== -->
+
 ### Status / ステータス
 * **Status:** In Preparation (投稿準備中)
-
 ---
 
 ### Study Overview / 研究概要
