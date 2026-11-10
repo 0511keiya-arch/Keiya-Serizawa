@@ -3,7 +3,7 @@
 title: "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study" # 論文・研究のフルタイトル
 collection: publications # 保存先（publications 固定）
 permalink: /publication/2026-11-10-lateral-band-walk # このページのURL末尾（重複しない日付やキーワード）
-date: 2026-11-10 # 発表日・登録日（YYYY-MM-DD）
+date: 2026-11-09 # 発表日・登録日（YYYY-MM-DD）
 
 # --- [学術情報・ステータス] ---
 venue: 'In Preparation' # 掲載誌名（投稿準備中の場合は 'In Preparation' / 投稿中の場合は 'Under Review'）
