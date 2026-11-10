@@ -1,7 +1,6 @@
 ---
 title: "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study"
 collection: talks
-category: talks
 type: "Oral presentation"
 permalink: /talks/2026-04-11-acpt-presentation
 venue: "The 17th Asian Confederation for Physical Therapy (ACPT) Congress 2026"
