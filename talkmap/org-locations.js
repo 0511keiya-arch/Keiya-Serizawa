@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Effects of a 3-Week Lateral Band Walk Intervention on Knee Valgus During Single-Leg Drop Landing in Females With Dynamic Knee Valgus: A Randomized Controlled Trial<br />World Congress of Sports Physical Therapy (WCSPT 2026); Zurich, Switzerland",
-    47.3744489,
-    8.5410422
-  ],
-  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
