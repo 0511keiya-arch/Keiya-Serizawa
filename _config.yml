@@ -359,3 +359,5 @@ compress_html:
   comments: ["<!-- ", " -->"]
   ignore:
     envs: development
+
+future: true
