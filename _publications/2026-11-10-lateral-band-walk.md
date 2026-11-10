@@ -1,8 +1,9 @@
 ---
 title: "Acute Effect of Lateral Band Walk on Biomechanical Risk Factors for Anterior Cruciate Ligament Injury During a Single-Leg Drop Landing Task in Females with Dynamic Knee Valgus: A Crossover Study"
 collection: publications
-permalink: /publication/2025-12-01-lateral-band-walk
-date: 2025-12-01
+category: manuscripts
+permalink: /publication/2026-11-10-lateral-band-walk
+date: 2026-11-10
 venue: 'In Preparation'
 citation: 'Serizawa, K., Aizawa, J. (In preparation).'
 ---
