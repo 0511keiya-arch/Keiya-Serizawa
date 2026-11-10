@@ -22,7 +22,7 @@ repository               : "0511keiya-arch/Keiya-Serizawa" #自身のユーザ�
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"　# /images/profile.png に顔写真・アイコン画像を配置
+  avatar           : "profile.png" # /images/profile.png に顔写真・アイコン画像を配置
   name             : "芹澤 圭哉（Keiya Serizawa）"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Physical Therapy / Biomechanics" # 肩書きや専門分野
