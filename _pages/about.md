@@ -50,12 +50,7 @@ I am a PhD student in Physical Therapy and Biomechanics at Juntendo University G
 
 ---
 
-## Qualifications & Affiliations / 資格・所属学会
-* Physical Therapist (Japan) / 理学療法士（国家資格）
-* Japan Society of Physical Therapy Sciences / 日本理学療法学術研修大会・関連学会
-* NSCA Japan (National Strength and Conditioning Association Japan)
+## Qualifications & Affiliations / 資格
+* Physical Therapist (Japan) / 理学療法士
 
 ---
-
-## CV / 履歴書
-* [Download Full CV (PDF)](files/cv.pdf)
