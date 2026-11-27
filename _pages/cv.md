@@ -12,8 +12,8 @@ redirect_from:
 ## Education / 学歴
 * **Ph.D. Student in Health Science (Department of Physical Therapy)**, Juntendo University, Tokyo, Japan, 2025 – Present
   * 順天堂大学大学院 保健医療学研究科 博士後期課程（理学療法学領域）
-* **M.S. in Health Science**, Juntendo University, Tokyo, Japan, 2025 *(※修了年・課程名は適宜修正してください)*
-* **B.S. in Physical Therapy**, Juntendo University, Tokyo, Japan, 2021 *(※卒業年・大学名を記載)*
+* **M.S. in Health Science**, Juntendo University, Tokyo, Japan, 2025
+* **B.S. in Physical Therapy**, Juntendo University, Tokyo, Japan, 2021
 
 ---
 
