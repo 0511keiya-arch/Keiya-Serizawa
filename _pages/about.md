@@ -36,13 +36,6 @@ I am a PhD student in Physical Therapy and Biomechanics at Juntendo University G
 
 ---
 
-## Research Skills & Tools / 研究手法・解析ツール
-* **Measurement & Motion Analysis**: 3D Motion Capture System (Vicon Vantage), AMTI Force Plates, InBody
-* **Data Analysis & Programming**: Python (PsychoPy / Anaconda), R, Custom Google Apps Scripts
-* **Specialized Certifications**: Physical Therapist (Japan), 1252 Expert Certification (Female Athlete Conditioning)
-
----
-
 ## Education / 学歴
 * **Ph.D. Student in Physical Therapy**  
   Juntendo University Graduate School of Health Science (Present)  
