@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education / 学歴
+* **Ph.D. Student in Health Science (Department of Physical Therapy)**, Juntendo University, Tokyo, Japan, 2025 – Present
+  * 順天堂大学大学院 保健医療学研究科 博士後期課程（理学療法学領域）
+* **M.S. in Health Science**, Juntendo University, Tokyo, Japan, 2025 *(※修了年・課程名は適宜修正してください)*
+* **B.S. in Physical Therapy**, Juntendo University, Tokyo, Japan, 2021 *(※卒業年・大学名を記載)*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Interests / 研究テーマ
+* Primary prevention of anterior cruciate ligament (ACL) injury
+* Biomechanical analysis of dynamic knee valgus (DKV) during landing tasks
+* Neuromuscular training interventions (e.g., lateral band walk)
+* 3D motion capture (Vicon) and force plate (AMTI) biomechanics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
+## Licenses & Certifications / 資格・認定
+* **Physical Therapist License (理学療法士免許)**
+
+---
+
+## Professional Memberships / 所属学会・団体
+* **Japanese Physical Therapy Association (JPTA / 日本理学療法士協会)**
+ 
+---
+
+## Publications / 論文業績
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
+
+---
+
+## Talks & Presentations / 学会発表
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
